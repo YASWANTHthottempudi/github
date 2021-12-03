@@ -37,3 +37,9 @@ s.no|name
 :kissing_closed_eyes: O my! :kissing_smiling_eyes:
 
 A footnote can also have multiple lines[^2].
+
+- [ ] yes or no :tada:
+
+- [x] hello :kissing_closed_eyes:
+
+@github/support What do you think about these updates?
